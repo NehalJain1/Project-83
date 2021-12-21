@@ -59,7 +59,7 @@ function mymouseup(event) {
    ctx.strokeStyle = colour; 
    ctx.lineWidth = lineWidth; 
    ctx.beginPath();
-
+}
   canvas.addEventListener("mouseleave",mymouseleave);
 
 function mymouseleave(event) {
